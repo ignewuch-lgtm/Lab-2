@@ -25,11 +25,11 @@ display: flex;
 }
 
 #flex-section2 .item2 {
-	order: 3;
+	order: 2;
 }
 
 #flex-section2 .item3 {
-	order: 2;
+	order: 3;
 }
 
 /* end Flexbox Part 2 */
