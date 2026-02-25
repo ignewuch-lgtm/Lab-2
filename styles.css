@@ -25,11 +25,11 @@ display: flex;
 }
 
 #flex-section2 .item2 {
-	order: 2;
+	order: 3;
 }
 
 #flex-section2 .item3 {
-	order: 3;
+	order: 2;
 }
 
 /* end Flexbox Part 2 */
@@ -77,11 +77,15 @@ display: grid;
 #grid-section2 .gridboxblue {
 	grid-column: 2 / 4;
 	grid-row: 2 / 4;
+	box-sizing: border-box;
+	font-family: 'Open Sans', sans-serif;
 }
 
 #grid-section2 .gridboxred {
 	grid-column: 2 / 4;
 	grid-row: 2 / 4;
+	box-sizing: border-box;
+	font-family: 'Open Sans', sans-serif;
 }
 
 /* end Grid Part 2 */
