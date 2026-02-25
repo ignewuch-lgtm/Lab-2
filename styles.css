@@ -82,8 +82,8 @@ display: grid;
 }
 
 #grid-section2 .gridboxred {
-	grid-column: 2 / 4;
-	grid-row: 2 / 4;
+	grid-column: 1 / 4;
+	grid-row: 1 / 4;
 	box-sizing: border-box;
 	font-family: 'Open Sans', sans-serif;
 }
